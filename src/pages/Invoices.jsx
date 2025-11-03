@@ -54,7 +54,8 @@ export default function Invoices() {
 //   const [clients, setClients] = useState([
 //     { id: 1, firstName: "John", lastName: "Doe" },
 //     { id: 2, firstName: "Jane", lastName: "Smith" },
-//   ]); // 👈 mock clients too
+//   ]); 
+
 //   const [clientId, setClientId] = useState("");
 //   const [status, setStatus] = useState("");
 //   const [loading, setLoading] = useState(false);
