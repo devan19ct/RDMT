@@ -20,7 +20,6 @@ This project is a small React + Vite + Tailwind web app for managing clients and
 
 ## 🖼️ Screenshots
 
-(Attach screenshots here)
 
 ## ⚙️ Installation & Run
 
